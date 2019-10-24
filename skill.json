@@ -18,7 +18,10 @@
           "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9796/4fd127b2b77a4290be69152794c3cf8f/APP_ICON_LARGE?versionId=n1R0YJFkfR5VGNKxkd7KsLxthn63JBWL&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191020T170308Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20191020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=611a43e233a9bec2efef176e0305d72bd5c1fe1dd10c50977eb27f31866ed539",
           "summary": "Resumo das últimas vagas de frontend",
           "description": "Essa skill irá fazer um resumo das últimas vagas de frontend postadas no https://github.com/frontendbr/vagas. Você pode executar essa skill em qualquer dispositivo Amazon Echo.",
-          "examplePhrases": ["Alexa, vagas frontend"],
+          "examplePhrases": [
+            "Alexa, vagas frontend", 
+            "Alexa, abrir vagas frontend"
+          ],
           "keywords": ["vagas", "frontend", "developer"]
         }
       },
